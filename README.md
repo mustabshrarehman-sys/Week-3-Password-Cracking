@@ -301,10 +301,9 @@ By using John the Ripper with Johnny GUI and Networkwalks browser-based tools, I
 This hands-on experience strengthened my understanding of password security and ethical hacking fundamentals.
 
 ---
-
-**Project:** Cybersecurity & Ethical Hacking  
-**Training Platform:** Networkwalks  
-**Week:** 03  
+**Author:** Mustabshra Rehman
+**Batch:** B084
+**Training Platform:** Networkwalks   
 **Topic:** Password Cracking  
 **Tools:** John the Ripper, Johnny GUI, Networkwalks Tools
 
