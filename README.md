@@ -302,8 +302,11 @@ This hands-on experience strengthened my understanding of password security and 
 
 ---
 **Author:** Mustabshra Rehman
+
 **Batch:** B084
+
 **Training Platform:** Networkwalks   
+
 **Topic:** Password Cracking  
 **Tools:** John the Ripper, Johnny GUI, Networkwalks Tools
 
