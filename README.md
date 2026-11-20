@@ -70,13 +70,6 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 - Browsed to the John the Ripper executable.
 - Selected `john.exe` from the `run` directory.
 
-**Johnny Configuration**
-
-![Johnny Configuration](images/johnny-configuration.png)
-
-**Selecting John Executable**
-
-![John Executable Selection](images/john-executable-selection.png)
 
 ### Step 3: Extract the PDF Hash
 
@@ -87,13 +80,10 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 
 **Tool:** [Online PDF Hash Extractor](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
 
-**PDF Hash Extraction**
+**PDF Hash Extraction and Extracted Hash Result**
 
 ![PDF Hash Extraction](images/pdf-hash-extraction.png)
 
-**Extracted Hash Result**
-
-![Hash Extraction Result](images/hash-extraction-result.png)
 
 ### Step 4: Save the Hash
 
@@ -114,9 +104,6 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 
 ![Johnny Password File](images/johnny-password-file.png)
 
-**Attack Configuration**
-
-![Johnny Attack Setup](images/johnny-attack-setup.png)
 
 **Password Cracking Process**
 
@@ -125,14 +112,6 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 ### Step 6: Verify the Result
 
 After recovering the password, opened the protected PDF and entered the recovered password to verify successful access.
-
-**Password Cracking Result**
-
-![Johnny Cracking Result](images/johnny-cracking-result.png)
-
-**PDF Password Verification**
-
-![PDF Password Verification](images/pdf-password-verification.png)
 
 **Successfully Opened PDF**
 
@@ -184,19 +163,12 @@ Opened the Networkwalks Hash Calculator in a web browser.
 
 ![PDF Upload](images/networkwalks-hash-calculator.png)
 
-**Extracted PDF Hash**
-
-![Extracted PDF Hash](images/extracted-pdf-hash.png)
-
 ### Step 4: Open Password Cracker
 
 Opened the Networkwalks Password Cracker.
 
 [Networkwalks Password Cracker](https://networkwalks.com/password-cracker/)
 
-**Password Cracker Tool**
-
-![Networkwalks Password Cracker](images/networkwalks-password-cracker.png)
 
 ### Step 5: Perform Dictionary Attack
 
@@ -204,10 +176,6 @@ Opened the Networkwalks Password Cracker.
 - Started the attack.
 - The tool tested different passwords from its wordlist.
 - Waited for the matching password to be identified.
-
-**Submitting the Hash**
-
-![Hash Submission](images/hash-submission.png)
 
 **Password Cracking Result**
 
