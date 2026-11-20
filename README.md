@@ -122,6 +122,31 @@ After recovering the password, opened the protected PDF and entered the recovere
 Successfully recovered the password of the provided protected PDF using John the Ripper through Johnny GUI.
 
 ---
+**PDF2 Hash Extraction and Extracted Hash Result**
+![PDF Hash Extraction](images/pdf2-hash-extraction.png)
+
+**Opening the Password File**
+
+![Johnny Password File](images/johnny2-password-file.png)
+
+
+**Successfully Opened PDF**
+
+![Successful PDF Access](images/successful-pdf2-access.png)
+
+
+**PDF3 Hash Extraction and Extracted Hash Result**
+![PDF Hash Extraction](images/pdf3-hash-extraction.png)
+
+**Opening the Password File**
+
+![Johnny Password File](images/johnny3-password-file.png)
+
+
+**Successfully Opened PDF**
+
+![Successful PDF Access](images/successful-pdf-access-module-2.png)
+
 
 # Module 2: Password Cracking with Networkwalks Tools
 
@@ -194,7 +219,7 @@ Opened the Networkwalks Password Cracker.
 
 **Successfully Accessed PDF**
 
-![Successful PDF Access](images/successful-pdf-access-module-2.png)
+![Successful PDF Access](images/Screenshot 2026-11-17 192113.png)
 
 ## 3. Result
 
