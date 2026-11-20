@@ -72,11 +72,11 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 
 **Johnny Configuration**
 
-![Johnny Configuration](images/johnny-configuration.jpg)
+![Johnny Configuration](images/johnny-configuration.png)
 
 **Selecting John Executable**
 
-![John Executable Selection](images/john-executable-selection.jpg)
+![John Executable Selection](images/john-executable-selection.png)
 
 ### Step 3: Extract the PDF Hash
 
@@ -89,11 +89,11 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 
 **PDF Hash Extraction**
 
-![PDF Hash Extraction](images/pdf-hash-extraction.jpg)
+![PDF Hash Extraction](images/pdf-hash-extraction.png)
 
 **Extracted Hash Result**
 
-![Hash Extraction Result](images/hash-extraction-result.jpg)
+![Hash Extraction Result](images/hash-extraction-result.png)
 
 ### Step 4: Save the Hash
 
@@ -112,15 +112,15 @@ Johnny is the graphical user interface (GUI) for John the Ripper, making it easi
 
 **Opening the Password File**
 
-![Johnny Password File](images/johnny-password-file.jpg)
+![Johnny Password File](images/johnny-password-file.png)
 
 **Attack Configuration**
 
-![Johnny Attack Setup](images/johnny-attack-setup.jpg)
+![Johnny Attack Setup](images/johnny-attack-setup.png)
 
 **Password Cracking Process**
 
-![Johnny Attack Process](images/johnny-attack-process.jpg)
+![Johnny Attack Process](images/johnny-attack-process.png)
 
 ### Step 6: Verify the Result
 
@@ -128,15 +128,15 @@ After recovering the password, opened the protected PDF and entered the recovere
 
 **Password Cracking Result**
 
-![Johnny Cracking Result](images/johnny-cracking-result.jpg)
+![Johnny Cracking Result](images/johnny-cracking-result.png)
 
 **PDF Password Verification**
 
-![PDF Password Verification](images/pdf-password-verification.jpg)
+![PDF Password Verification](images/pdf-password-verification.png)
 
 **Successfully Opened PDF**
 
-![Successful PDF Access](images/successful-pdf-access.jpg)
+![Successful PDF Access](images/successful-pdf-access.png)
 
 ## 3. Result
 
@@ -171,7 +171,7 @@ Opened the Networkwalks Hash Calculator in a web browser.
 
 **Hash Calculator**
 
-![Networkwalks Hash Calculator](images/networkwalks-hash-calculator.jpg)
+![Networkwalks Hash Calculator](images/networkwalks-hash-calculator.png)
 
 ### Step 3: Extract the PDF Hash
 
@@ -182,11 +182,11 @@ Opened the Networkwalks Hash Calculator in a web browser.
 
 **Uploading the PDF**
 
-![PDF Upload](images/pdf-upload-to-hash-calculator.jpg)
+![PDF Upload](images/pdf-upload-to-hash-calculator.png)
 
 **Extracted PDF Hash**
 
-![Extracted PDF Hash](images/extracted-pdf-hash.jpg)
+![Extracted PDF Hash](images/extracted-pdf-hash.png)
 
 ### Step 4: Open Password Cracker
 
@@ -196,7 +196,7 @@ Opened the Networkwalks Password Cracker.
 
 **Password Cracker Tool**
 
-![Networkwalks Password Cracker](images/networkwalks-password-cracker.jpg)
+![Networkwalks Password Cracker](images/networkwalks-password-cracker.png)
 
 ### Step 5: Perform Dictionary Attack
 
@@ -207,11 +207,11 @@ Opened the Networkwalks Password Cracker.
 
 **Submitting the Hash**
 
-![Hash Submission](images/hash-submission.jpg)
+![Hash Submission](images/hash-submission.png)
 
 **Password Cracking Result**
 
-![Password Cracking Result](images/password-cracking-result.jpg)
+![Password Cracking Result](images/password-cracking-result.png)
 
 ### Step 6: Verify the Recovered Password
 
@@ -222,11 +222,11 @@ Opened the Networkwalks Password Cracker.
 
 **Entering the PDF Password**
 
-![PDF Password Entry](images/pdf-password-entry.jpg)
+![PDF Password Entry](images/pdf-password-entry.png)
 
 **Successfully Accessed PDF**
 
-![Successful PDF Access](images/successful-pdf-access-module-2.jpg)
+![Successful PDF Access](images/successful-pdf-access-module-2.png)
 
 ## 3. Result
 
