@@ -182,7 +182,7 @@ Opened the Networkwalks Hash Calculator in a web browser.
 
 **Uploading the PDF**
 
-![PDF Upload](images/pdf-upload-to-hash-calculator.png)
+![PDF Upload](images/networkwalks-hash-calculator.png)
 
 **Extracted PDF Hash**
 
